@@ -1,2 +1,0 @@
-#Web Guesser in Sinatra.
-
